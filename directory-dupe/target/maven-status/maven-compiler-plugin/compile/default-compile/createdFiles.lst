@@ -1,0 +1,7 @@
+com/aerotech/model/AbstractCommand.class
+com/aerotech/model/Copy.class
+com/aerotech/App.class
+com/aerotech/model/Command.class
+com/aerotech/util/Util.class
+com/aerotech/model/Delete.class
+com/aerotech/model/Display.class
